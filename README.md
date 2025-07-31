@@ -1,8 +1,8 @@
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-# 👋 ¡Hola! Soy Sheila Sandoval
+# 👋 ¡Hola! Soy Sheila Pisco 
 
-Soy estudiante de la Tecnicatura Universitaria en Análisis de Sistemas en la Universidad Nacional de La Plata (UNLP). Me apasiona el desarrollo de software y actualmente estoy profundizando tanto en el **frontend** como en el **backend**.
+Actualmente curso una tecnicatura universitaria en la Universidad Nacional de La Plata (UNLP). Me apasiona el desarrollo de software y estoy continuamente profundizando tanto en el **frontend** como en el **backend**.
 
 ---
 
